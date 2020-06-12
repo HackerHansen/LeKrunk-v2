@@ -9,4 +9,4 @@ Color-based unpatchable aimbot for the game krunker.io
 
 This is because there are skids who steal code and claim it as their own without giving credit. That's why we have to use a packet exe and cannot provide source like my other projects. Sorry for the inconvenience. 
 
-###Made by Leplix and HackerHansen. Enjoy :) 
+### Made by Leplix and HackerHansen. Enjoy :) 
