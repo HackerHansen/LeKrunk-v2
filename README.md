@@ -3,6 +3,8 @@ Color-based unpatchable aimbot for the game krunker.io
 
 ## WINDOWS ONLY. 
 
+## NOTE: If it doesn't work that well, increase the "color var" setting! 
+
 ### WARNING: Your antivirus will probably flag this, this is due to packing/obfuscation. If you don't feel safe, don't run it. 
 
 #### Why do we have to pack it? 
