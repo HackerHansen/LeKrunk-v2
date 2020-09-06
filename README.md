@@ -1,6 +1,8 @@
 # LeKrunk-v2
 Color-based unpatchable aimbot for the game krunker.io
 
+## Note: Change ingame saturation setting to 1 for this to work 
+
 ## WINDOWS ONLY. 
 
 ## NOTE: If it doesn't work that well, increase the "color var" setting! 
